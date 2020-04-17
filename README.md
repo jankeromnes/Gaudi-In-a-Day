@@ -40,7 +40,7 @@ Other features that are to note is the user can get in touch easily by navigatio
 * As a user I want to view this information with ease 
 
  
-Wireframes: 
+# Wireframes: 
 
  
 
@@ -52,17 +52,17 @@ About: This section covers a little bit about Antoni Gaudi and a link to his Wik
 
 Contact: Is a section to ask for more information, speak to us or book the day. 
 
-### Excising Features 
+# Excising Features 
 
-Nav bar that is easily used and accessible 
+* Nav bar that is easily used and accessible 
 
-Contact section to speak with us 
+* Contact section to speak with us 
 
 * Smooth scrolling which is better UX 
 
 * Amazing images 
 
-### Features Left to Implement 
+# Features Left to Implement 
 
 * Proper footer to give more contactable information 
 
@@ -74,7 +74,7 @@ Contact section to speak with us
 
 * Map of where the hot attractions are 
 
-### Technologies Used
+# Technologies Used
 
 *
 *
@@ -82,11 +82,16 @@ Contact section to speak with us
 *
 *
 
-## Testing
+# Testing
 
-## Deployment
+# Deployment
 
-## Credits
+# Credits
+
 ### Content
+*
+*
 ### Media 
+*
+*
 ### Acknowledgements
