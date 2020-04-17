@@ -1,4 +1,4 @@
-#Gaudi In a Day! 
+# Gaudi In a Day! 
 
  
 
@@ -11,7 +11,7 @@ The idea behind this project was to give Gaudi lovers a chance to cram in as muc
 
  
 
-#UX 
+# UX 
  
 
 The end user of this project is for people who have a keen interest in Art and Architecture. The users would range from any age. It will be used mainly on mobile and tablet devices going by the technology used in this day and age but can also be accessible through desktop comfortably. 
@@ -25,17 +25,17 @@ The benefit of the project is to show off the Gaudi building's in an inviting wa
 
 Other features that are to note is the user can get in touch easily by navigation to the social links. 
 
-..* As a user I want to find out more about Antoni Gaudi 
+⋅⋅* As a user I want to find out more about Antoni Gaudi 
 
-..* As a user I want to find this information easily without many clicks 
+⋅⋅* As a user I want to find this information easily without many clicks 
 
-..*  As a user I want to know more about the architecture 
+⋅⋅*  As a user I want to know more about the architecture 
 
-..* As a user I want to get in touch with you easily  ..* As a user I want to be able to find your contact details and social links easily 
+⋅⋅* As a user I want to get in touch with you easily  ..* As a user I want to be able to find your contact details and social links easily 
 
-..* As a user I want to view this information on my mobile device or tablet 
+⋅⋅* As a user I want to view this information on my mobile device or tablet 
 
-..* As a user I want to view this information with ease 
+⋅⋅* As a user I want to view this information with ease 
 
  
 Wireframes: 
@@ -56,18 +56,18 @@ Nav bar that is easily used and accessible
 
 Contact section to speak with us 
 
-..* Smooth scrolling which is better UX 
+⋅⋅* Smooth scrolling which is better UX 
 
-..* Amazing images 
+⋅⋅* Amazing images 
 
-..* Features Left to Implement 
+⋅⋅* Features Left to Implement 
 
-..* Proper footer to give more contactable information 
+⋅⋅* Proper footer to give more contactable information 
 
-..* Booking Section with dates and times 
+⋅⋅* Booking Section with dates and times 
 
-..* Possible change to a multipage website with more days and activities added 
+⋅⋅* Possible change to a multipage website with more days and activities added 
 
-..* More links for places to eat 
+⋅⋅* More links for places to eat 
 
-..* Map of where the hot attractions are 
+⋅⋅* Map of where the hot attractions are 
