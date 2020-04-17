@@ -31,7 +31,9 @@ Other features that are to note is the user can get in touch easily by navigatio
 
 *  As a user I want to know more about the architecture 
 
-* As a user I want to get in touch with you easily  ..* As a user I want to be able to find your contact details and social links easily 
+* As a user I want to get in touch with you easily  
+
+* As a user I want to be able to find your contact details and social links easily 
 
 * As a user I want to view this information on my mobile device or tablet 
 
@@ -42,7 +44,7 @@ Wireframes:
 
  
 
-Features 
+# Features 
 
 The homepage will be a landing page for the user and will catch their eye with the mosaic background. 
 
@@ -50,7 +52,7 @@ About: This section covers a little bit about Antoni Gaudi and a link to his Wik
 
 Contact: Is a section to ask for more information, speak to us or book the day. 
 
-Excising Features 
+### Excising Features 
 
 Nav bar that is easily used and accessible 
 
@@ -60,7 +62,7 @@ Contact section to speak with us
 
 * Amazing images 
 
-* Features Left to Implement 
+### Features Left to Implement 
 
 * Proper footer to give more contactable information 
 
@@ -71,3 +73,20 @@ Contact section to speak with us
 * More links for places to eat 
 
 * Map of where the hot attractions are 
+
+### Technologies Used
+
+*
+*
+*
+*
+*
+
+## Testing
+
+## Deployment
+
+## Credits
+### Content
+### Media 
+### Acknowledgements
