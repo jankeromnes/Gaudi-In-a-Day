@@ -46,9 +46,9 @@ Other features that are to note is the user can get in touch easily by navigatio
 
 # Features 
 
-The homepage will be a landing page for the user and will catch their eye with the mosaic background. 
+The homepage is a landing page for the user this will catch their eye with a colourfull mosaic background. 
 
-About: This section covers a little bit about Antoni Gaudi and a link to his Wikipedia webpage. 
+About: This section covers a little bit about Antoni Gaudi and a link to his Wikipedia webpage if the user wishes to find out more about him. 
 
 Contact: Is a section to ask for more information, speak to us or book the day. 
 
