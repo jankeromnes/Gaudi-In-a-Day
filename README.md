@@ -40,7 +40,11 @@ Other features that are to note is the user can get in touch easily by navigatio
 * As a user I want to view this information with ease 
 
  
-# Wireframes: 
+# Wireframes
+
+* [Desktop View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Desktop.png)
+* [Tablet View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Tablet.png)
+* [Mobile View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Mobile.png)
 
  
 
