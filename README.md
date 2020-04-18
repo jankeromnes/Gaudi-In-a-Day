@@ -2,10 +2,6 @@
 
 The idea behind this project was to give Gaudi lovers a chance to cram in as much architecture in one day as they can when having the opportunity of being in Barcelona. I personally have never been to Barcelona but would love to one day to see Gaudi's work like this page does. It has some information on the buildings and information of Gaudi for people who arrive on the page non the wiser of him. So if they look for Gaudi's architecture. 
 
- 
- 
-
- 
 
 # UX 
  
@@ -38,9 +34,9 @@ Other features that are to note is the user can get in touch easily by navigatio
  
 ## Wireframes
 
-* [desktop View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Desktop.png)
-* [tablet View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Tablet.png)
-* [mobile View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Mobile.png)
+* [desktop view](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Desktop.png)
+* [tablet view](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Tablet.png)
+* [mobile view](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Mobile.png)
 
  
 
@@ -62,7 +58,7 @@ Contact: Is a section to ask for more information, speak to us or book the day.
 
 * Amazing images 
 
-## Features Left to Implement 
+## Features Left to Impliement 
 
 * Proper footer to give more contactable information 
 
@@ -87,13 +83,12 @@ Contact: Is a section to ask for more information, speak to us or book the day.
 ## Deployment
 
 The website was created using Gitpod. Git was used for version control and pushed to a repository hosted on Github. The website is deployed using Github pages TheHighlandsBreak.
-
 How to deploy the code locally?
 If you wish to run this code locally then please follow the instructions below.
 
-Download the code from the Github repository at TheHighlandsBreak
+Download the code from the Github repository at Gaudi-In-a-Day
 Click on Clone or download then Download ZIP. This will download the code into a ZIP folder locally on your computer.
-Uncompress the ZIP folder.
+Uncompress the ZIP folder and open.
 
 ## Credits
 
