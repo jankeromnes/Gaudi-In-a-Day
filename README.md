@@ -1,9 +1,5 @@
 # Gaudi In a Day! 
 
- 
-
-Milestone 1 Project - User-Centric Frontend Development 
-
 The idea behind this project was to give Gaudi lovers a chance to cram in as much architecture in one day as they can when having the opportunity of being in Barcelona. I personally have never been to Barcelona but would love to one day to see Gaudi's work like this page does. It has some information on the buildings and information of Gaudi for people who arrive on the page non the wiser of him. So if they look for Gaudi's architecture. 
 
  
@@ -29,7 +25,7 @@ Other features that are to note is the user can get in touch easily by navigatio
 
 * As a user I want to find this information easily without many clicks 
 
-*  As a user I want to know more about the architecture 
+* As a user I want to know more about the architecture 
 
 * As a user I want to get in touch with you easily  
 
@@ -42,9 +38,9 @@ Other features that are to note is the user can get in touch easily by navigatio
  
 ## Wireframes
 
-* [Desktop View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Desktop.png)
-* [Tablet View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Tablet.png)
-* [Mobile View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Mobile.png)
+* [desktop View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Desktop.png)
+* [tablet View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Tablet.png)
+* [mobile View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Mobile.png)
 
  
 
