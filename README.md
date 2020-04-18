@@ -72,11 +72,19 @@ Contact: Is a section to ask for more information, speak to us or book the day.
 
 ## Technologies Used
 
-*
-*
-*
-*
-*
+### Languages
+
+* HTML
+* CSS
+
+### Tools & Libraries
+
+* jQuery
+* Git
+* Bootstrap
+* Font-Awesome
+* Google Maps
+* TinyPng (image compression)
 
 ## Testing
 
