@@ -40,7 +40,7 @@ Other features that are to note is the user can get in touch easily by navigatio
 * As a user I want to view this information with ease 
 
  
-# Wireframes
+## Wireframes
 
 * [Desktop View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Desktop.png)
 * [Tablet View](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Tablet.png)
@@ -48,7 +48,7 @@ Other features that are to note is the user can get in touch easily by navigatio
 
  
 
-# Features 
+## Features 
 
 The homepage is a landing page for the user this will catch their eye with a colourfull mosaic background. 
 
@@ -56,7 +56,7 @@ About: This section covers a little bit about Antoni Gaudi and a link to his Wik
 
 Contact: Is a section to ask for more information, speak to us or book the day. 
 
-# Excising Features 
+## Excising Features 
 
 * Nav bar that is easily used and accessible 
 
@@ -66,7 +66,7 @@ Contact: Is a section to ask for more information, speak to us or book the day.
 
 * Amazing images 
 
-# Features Left to Implement 
+## Features Left to Implement 
 
 * Proper footer to give more contactable information 
 
@@ -78,7 +78,7 @@ Contact: Is a section to ask for more information, speak to us or book the day.
 
 * Map of where the hot attractions are 
 
-# Technologies Used
+## Technologies Used
 
 *
 *
@@ -86,16 +86,16 @@ Contact: Is a section to ask for more information, speak to us or book the day.
 *
 *
 
-# Testing
+## Testing
 
-# Deployment
+## Deployment
 
-# Credits
+## Credits
 
-### Content
+#### Content
 *
 *
-### Media 
+#### Media 
 *
 *
-### Acknowledgements
+#### Acknowledgements
