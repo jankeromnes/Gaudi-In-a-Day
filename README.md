@@ -86,12 +86,21 @@ Contact: Is a section to ask for more information, speak to us or book the day.
 
 ## Deployment
 
+The website was created using Gitpod. Git was used for version control and pushed to a repository hosted on Github. The website is deployed using Github pages TheHighlandsBreak.
+
+How to deploy the code locally?
+If you wish to run this code locally then please follow the instructions below.
+
+Download the code from the Github repository at TheHighlandsBreak
+Click on Clone or download then Download ZIP. This will download the code into a ZIP folder locally on your computer.
+Uncompress the ZIP folder.
+
 ## Credits
 
 #### Content
 *
 *
 #### Media 
-*
+* The photos used for thid project were obtained from  Wikipedia, I have used the images that are selected for non comercial use along withom googlr Images.
 *
 #### Acknowledgements
