@@ -16,7 +16,7 @@ The benefit of the project is to show off the Gaudi building's in an inviting wa
 
 Other features that are to note is the user can get in touch easily by navigation to the social links.
 
-* As a user I want
+* As a user I want to find out more about Antoni Gaudi 
 
 * As a user I want to find this information easily without many clicks 
 
@@ -26,7 +26,7 @@ Other features that are to note is the user can get in touch easily by navigatio
 
 * As a user I want to be able to find your contact details and social links easily 
 
-* As a user I want to view this information on my mobile device or tablet 
+* As a user I want to view this information on my mobile device or tablet or  desktop if needs must 
 
 * As a user I want to view this information with ease 
 
