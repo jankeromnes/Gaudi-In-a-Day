@@ -96,6 +96,16 @@ Below are a list of the programming languages, technologies and frameworks used 
 * Google Chrome Developer Tools
 
 ## Testing
+---
+
+### Platforms:
+*
+*
+*
+*
+Manual testing was also conducted to ensure the user story objectives were acheived.
+
+Contact Form:
 
 ## Deployment
 
