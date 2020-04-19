@@ -60,7 +60,8 @@ Other features that are to note is the user can get in touch easily by navigatio
 
 * Accuraate information on Antonio Gaudi himself
 
-## Features Left to Impliement 
+## Features Left to Implement 
+---
 
 * Proper footer to give more contactable information 
 
@@ -70,7 +71,8 @@ Other features that are to note is the user can get in touch easily by navigatio
 
 * More links for places to eat 
 
-* Map of where the hot attractions are 
+* Map of where the hot attractions are and how to get to them
+* Reviews
 
 ## Technologies Used
 
