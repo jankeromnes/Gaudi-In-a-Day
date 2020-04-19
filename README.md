@@ -81,18 +81,18 @@ Below are a list of the programming languages, technologies and frameworks used 
 * HTML
 * CSS
 * JQuery
-* Markdown
- * Used to write the README.md file.
+* Boostnote
+  * Used to write the README.md file.
 * Bootstrap4.3.1 framework
- * The website uses bootstrap framework for it's grid system, page layout, button styling and responsive navigation bar.
+  * The website uses bootstrap framework for it's grid system, page layout, button styling and responsive navigation bar.
 * Gitpod was the IDE used to write the code for this website.
 * Balsamic was used to create the wireframes for this project
 * Google Fonts
 * Git
- * Version control
+  * Version control
 * Github
 * Font Awesome
- * For social media icons and Glyph icons
+  * For social media icons and Glyph icons
 * Google Chrome Developer Tools
 
 ## Testing
