@@ -1,7 +1,7 @@
 # Gaudi In a Day! 
-
-The idea behind this project was to give Gaudi lovers a chance to cram in as much architecture in one day as they can when having the opportunity of being in Barcelona. I personally have never been to Barcelona but would love to one day to see Gaudi's work like this page does. It has some information on the buildings and information of Gaudi for people who arrive on the page non the wiser of him. So if they look for Gaudi's architecture. 
-
+---
+The idea behind this project was to give Gaudi lovers a chance to view as much architecture in one day as they can when having the opportunity of being in the beautiful Barcelona. I personally have never been to Barcelona but I would love to get the oppertunity to go one day to see Gaudi's work. This Single Page Application has some information on the architecture and Gaudi for people who arrive on the page non the wiser of him or what he is known for.
+Click [here](https://taitdanielle.github.io/Gaudi-In-a-Day/) to view the live page.
 
 # UX 
  
