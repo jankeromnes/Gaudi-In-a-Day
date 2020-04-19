@@ -121,6 +121,12 @@ The website was created using Gitpod. Git was used for version control and pushe
 7. Selected **Master Branch** from the 'Source' dropdown menu.
 8. Clicked to confirm my selection.
 9. **Gaudi-In-a-Day** is now live on GitHub Pages.
+
+How to deploy the code locally? If you wish to run this code locally then please follow the instructions below.
+
+1. **Download** the code from the Github repository at **Gaudi-In-a-Day**
+2. Click on **Clone or Download button** then select **Download ZIP** (this will download the code into a ZIP folder locally on your computer)
+3. Uncompress the ZIP folder and select **open**
 ## Credits
 
 #### Content
