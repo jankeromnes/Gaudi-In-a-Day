@@ -116,6 +116,11 @@ The website was created using Gitpod. Git was used for version control and pushe
 2. Logged in 
 3. Selected my **repositories**
 4. Navigated to **Taitdanielle/Gaudi-In-a-Day**
+5. In the top navigation clicked **settings**
+6. Scrolled down to the GitHub **Pages** area
+7. Selected **Master Branch** from the 'Source' dropdown menu.
+8. Clicked to confirm my selection.
+9. **Gaudi-In-a-Day** is now live on GitHub Pages.
 ## Credits
 
 #### Content
