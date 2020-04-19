@@ -47,7 +47,8 @@ Other features that are to note is the user can get in touch easily by navigatio
 
 **Contact**: Is a section to ask for more information on how it works, speak to us or how to book the day.
 
-## Excising Features 
+## Existing Features 
+---
 
 * Nav bar that is easily used and accessible 
 
@@ -55,7 +56,9 @@ Other features that are to note is the user can get in touch easily by navigatio
 
 * Smooth scrolling which is better UX 
 
-* Amazing images 
+* Amazing colourful images 
+
+* Accuraate information on Antonio Gaudi himself
 
 ## Features Left to Impliement 
 
