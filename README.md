@@ -127,6 +127,16 @@ How to deploy the code locally? If you wish to run this code locally then please
 1. **Download** the code from the Github repository at **Gaudi-In-a-Day**
 2. Click on **Clone or Download button** then select **Download ZIP** (this will download the code into a ZIP folder locally on your computer)
 3. Uncompress the ZIP folder and select **open**
+
+OR
+
+1. Navigate to **Taitdanielle/Gaudi-In-a-Day**
+2. Click the **Clone or Download** button
+3. Copy the **url** in the dropdown box.
+4. Using your choice of **IDE** open up your preferred terminal.
+5. Navigate to your desired **file location**.
+6. **Copy** the following code and input it into your **terminal** to clone **Gaudi-In-a-Day**
+
 ## Credits
 
 #### Content
