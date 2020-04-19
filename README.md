@@ -112,6 +112,10 @@ Contact Form:
 
 The website was created using Gitpod. Git was used for version control and pushed to a repository hosted on Github. The website is deployed using Github pages Gaudi-In-a-Day. How it was done is listed be below:
 
+1. Visit **GitHub** in the browser.
+2. Logged in 
+3. Selected my **repositories**
+4. Navigated to **Taitdanielle/Gaudi-In-a-Day**
 ## Credits
 
 #### Content
