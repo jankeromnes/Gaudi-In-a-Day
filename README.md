@@ -75,6 +75,8 @@ Other features that are to note is the user can get in touch easily by navigatio
 * Reviews
 
 ## Technologies Used
+---
+Below are a list of the programming languages, technologies and frameworks used for this website:
 
 * HTML
 * CSS
