@@ -138,11 +138,19 @@ OR
 6. **Copy** the following code and input it into your **terminal** to clone **Gaudi-In-a-Day**
 
 ## Credits
+---
+
+#### Code
+* Bootstrap
+  * Image Cards 
+* *
+
 
 #### Content
 *
 *
 #### Media 
-* The photos used for thid project were obtained from  Wikipedia, I have used the images that are selected for non comercial use along withom googlr Images.
-*
-#### Acknowledgements
+* The photos used for this project were obtained from  Wikipedia, I have used the images that are selected for non comercial use along with google Images.
+* Some images for this web site are being used under free commercial license from AdobeStock
+
+## Acknowledgements
