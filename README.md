@@ -108,14 +108,9 @@ Manual testing was also conducted to ensure the user story objectives were achei
 Contact Form:
 
 ## Deployment
+---
 
-The website was created using Gitpod. Git was used for version control and pushed to a repository hosted on Github. The website is deployed using Github pages Gaudi-In-a-Day.
-
-How to deploy the code locally? If you wish to run this code locally then please follow the instructions below.
-
-1. Download the code from the Github repository at Gaudi-In-a-Day
-2. Click on Clone or download then Download ZIP. This will download the code into a ZIP folder locally on your computer.
-3. Uncompress the ZIP folder and open.
+The website was created using Gitpod. Git was used for version control and pushed to a repository hosted on Github. The website is deployed using Github pages Gaudi-In-a-Day. How it was done is listed be below:
 
 ## Credits
 
