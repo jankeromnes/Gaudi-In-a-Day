@@ -7,7 +7,16 @@ Click [here](https://taitdanielle.github.io/Gaudi-In-a-Day/) to view the live pa
 --- 
 
 The end user of this project is for people who have a keen interest in Art and Architecture. The users would range from any age. It will be used mainly on mobile and tablet devices going by the technology used in this day and age, but can also be accessible through desktop comfortably. 
-* As a user I want to find out more about Antoni Gaudi 
+
+The end user wants to see information on Antoni Gaudi himself and his work. 
+ 
+
+The benefit of the project is to show off the Gaudi building's in an inviting way with bright colours and a user-friendly style just like some of the mosaic on his buildings.  
+ 
+
+Other features that are to note is the user can get in touch easily by navigation to the social links.
+
+* As a user I want
 
 * As a user I want to find this information easily without many clicks 
 
