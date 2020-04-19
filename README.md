@@ -72,31 +72,34 @@ Contact: Is a section to ask for more information, speak to us or book the day.
 
 ## Technologies Used
 
-### Languages
-
 * HTML
 * CSS
-
-### Tools & Libraries
-
-* jQuery
+* JQuery
+* Markdown
+ * Used to write the README.md file.
+* Bootstrap4.3.1 framework
+ * The website uses bootstrap framework for it's grid system, page layout, button styling and responsive navigation bar.
+* Gitpod was the IDE used to write the code for this website.
+* Balsamic was used to create the wireframes for this project
+* Google Fonts
 * Git
-* Bootstrap
-* Font-Awesome
-* Google Maps
-* TinyPng (image compression)
+ * Version control
+* Github
+* Font Awesome
+ * For social media icons and Glyph icons
+* Google Chrome Developer Tools
 
 ## Testing
 
 ## Deployment
 
-The website was created using Gitpod. Git was used for version control and pushed to a repository hosted on Github. The website is deployed using Github pages TheHighlandsBreak.
-How to deploy the code locally?
-If you wish to run this code locally then please follow the instructions below.
+The website was created using Gitpod. Git was used for version control and pushed to a repository hosted on Github. The website is deployed using Github pages Gaudi-In-a-Day.
 
-Download the code from the Github repository at Gaudi-In-a-Day
-Click on Clone or download then Download ZIP. This will download the code into a ZIP folder locally on your computer.
-Uncompress the ZIP folder and open.
+How to deploy the code locally? If you wish to run this code locally then please follow the instructions below.
+
+1. Download the code from the Github repository at Gaudi-In-a-Day
+2. Click on Clone or download then Download ZIP. This will download the code into a ZIP folder locally on your computer.
+3. Uncompress the ZIP folder and open.
 
 ## Credits
 
