@@ -1,10 +1,10 @@
 # Gaudi In a Day! 
----
+
 The idea behind this project was to give Gaudi lovers a chance to view as much architecture in one day as they can when having the opportunity of being in the beautiful Barcelona. I personally have never been to Barcelona but I would love to get the oppertunity to go one day to see Gaudi's work. This Single Page Application has some information on the architecture and Gaudi for people who arrive on the page non the wiser of him or what he is known for.
 Click [here](https://taitdanielle.github.io/Gaudi-In-a-Day/) to view the live page.
 
 ## UX 
---- 
+
 
 The end user of this project is for people who have a keen interest in Art and Architecture. The users would range from any age. It will be used mainly on mobile and tablet devices going by the technology used in this day and age, but can also be accessible through desktop comfortably. 
 
@@ -40,7 +40,7 @@ Other features that are to note is the user can get in touch easily by navigatio
  
 
 ## Features 
----
+
 **The Landing Page**: Is a landing page for the user when they first come on to the page. This will catch their eye with a colourfull mosaic background with bold text of the page name.
 
 **About**: This section covers a little bit about Antoni Gaudi and a link to his Wikipedia webpage if the user wishes to find out more about him. 
@@ -48,7 +48,7 @@ Other features that are to note is the user can get in touch easily by navigatio
 **Contact**: Is a section to ask for more information on how it works, speak to us or how to book the day.
 
 ## Existing Features 
----
+
 
 * Nav bar that is easily used and accessible 
 
@@ -61,7 +61,7 @@ Other features that are to note is the user can get in touch easily by navigatio
 * Accuraate information on Antonio Gaudi himself
 
 ## Features Left to Implement 
----
+
 
 * Proper footer to give more contactable information 
 
@@ -75,7 +75,7 @@ Other features that are to note is the user can get in touch easily by navigatio
 * Reviews
 
 ## Technologies Used
----
+
 Below are a list of the programming languages, technologies and frameworks used for this website:
 
 * HTML
@@ -96,7 +96,7 @@ Below are a list of the programming languages, technologies and frameworks used 
 * Google Chrome Developer Tools
 
 ## Testing
----
+
 
 ### Platforms:
 *
@@ -108,7 +108,7 @@ Manual testing was also conducted to ensure the user story objectives were achei
 Contact Form:
 
 ## Deployment
----
+
 
 The website was created using Gitpod. Git was used for version control and pushed to a repository hosted on Github. The website is deployed using Github pages Gaudi-In-a-Day. How it was done is listed be below:
 
@@ -138,12 +138,12 @@ OR
 6. **Copy** the following code and input it into your **terminal** to clone **Gaudi-In-a-Day**
 
 ## Credits
----
+
 
 #### Code
 * Bootstrap
   * Image Cards 
-* *
+* 
 
 
 #### Content
