@@ -32,7 +32,7 @@ Other features that are to note is the user can get in touch easily by navigatio
 
  
 ## Wireframes
-
+---
 * [desktop view](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Desktop.png)
 * [tablet view](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Tablet.png)
 * [mobile view](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Mobile.png)
@@ -40,12 +40,12 @@ Other features that are to note is the user can get in touch easily by navigatio
  
 
 ## Features 
+---
+**The Landing Page**: Is a landing page for the user when they first come on to the page. This will catch their eye with a colourfull mosaic background with bold text of the page name.
 
-The homepage is a landing page for the user this will catch their eye with a colourfull mosaic background. 
+**About**: This section covers a little bit about Antoni Gaudi and a link to his Wikipedia webpage if the user wishes to find out more about him. 
 
-About: This section covers a little bit about Antoni Gaudi and a link to his Wikipedia webpage if the user wishes to find out more about him. 
-
-Contact: Is a section to ask for more information, speak to us or book the day. 
+**Contact**: Is a section to ask for more information on how it works, speak to us or how to book the day.
 
 ## Excising Features 
 
