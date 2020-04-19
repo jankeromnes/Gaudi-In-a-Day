@@ -3,20 +3,10 @@
 The idea behind this project was to give Gaudi lovers a chance to view as much architecture in one day as they can when having the opportunity of being in the beautiful Barcelona. I personally have never been to Barcelona but I would love to get the oppertunity to go one day to see Gaudi's work. This Single Page Application has some information on the architecture and Gaudi for people who arrive on the page non the wiser of him or what he is known for.
 Click [here](https://taitdanielle.github.io/Gaudi-In-a-Day/) to view the live page.
 
-# UX 
- 
+## UX 
+--- 
 
-The end user of this project is for people who have a keen interest in Art and Architecture. The users would range from any age. It will be used mainly on mobile and tablet devices going by the technology used in this day and age but can also be accessible through desktop comfortably. 
- 
-
-The end user wants to see information on Antoni Gaudi himself and his work. 
- 
-
-The benefit of the project is to show off the Gaudi building's in an inviting way with bright colours and a user-friendly style just like some of the mosaic on his buildings.  
- 
-
-Other features that are to note is the user can get in touch easily by navigation to the social links. 
-
+The end user of this project is for people who have a keen interest in Art and Architecture. The users would range from any age. It will be used mainly on mobile and tablet devices going by the technology used in this day and age, but can also be accessible through desktop comfortably. 
 * As a user I want to find out more about Antoni Gaudi 
 
 * As a user I want to find this information easily without many clicks 
