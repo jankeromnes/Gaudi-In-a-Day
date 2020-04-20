@@ -153,8 +153,16 @@ OR
 
 
 #### Content
-*
-*
+* Wikipedia was used for the information on Gaudi
+
+* Gave a great break down and helped me understand modal forms, I also used their example of the modal form - but was heavily modified to work for my project. https://mdbootstrap.com/docs/jquery/modals/forms/
+
+* Original wireframes were created with Balsamiq
+
+* README.md template taken from https://github.com/Code-Institute-Solutions/readme-template
+
+* https://ajgreaves.github.io/bootstrap-grid-demo/index.html bootstrap cheat sheet to help remember class names and show what classes done etc.
+
 #### Media 
 * The photos used for this project were obtained from  Wikipedia, I have used the images that are selected for non comercial use along with google Images.
 * Some images for this web site are being used under free commercial license from AdobeStock
